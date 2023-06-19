@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as o,a as t}from"./index-cb9cb457.js";const c={},a={class:"wrap"},n=t("h2",null,"马威的路由",-1),_=[n];function r(d,i,p,l,f,h){return s(),o("div",a,_)}const m=e(c,[["render",r]]);export{m as default};

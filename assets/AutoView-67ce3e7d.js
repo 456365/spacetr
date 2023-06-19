@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as _}from"./index-cb9cb457.js";const o={};function c(s,a,n,r,p,d){return t(),_("h2",null,"马威的汽车组件")}const l=e(o,[["render",c],["__scopeId","data-v-dc80eae0"]]);export{l as default};
